@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+ddddd
+=======
 <?
 ##### including function definition file.
 include $_SERVER['DOCUMENT_ROOT'] . "/func/function.user.php";

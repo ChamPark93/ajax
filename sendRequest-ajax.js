@@ -1,6 +1,6 @@
 /************************************************************************************
 
-sendRequest-ajax Branches 버전
+sendRequest-ajax Another Branches 버전
 
 author : 허정진  http://serpiko.tistory.com
 

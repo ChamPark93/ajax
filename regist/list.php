@@ -538,4 +538,3 @@ if($kk=='0') {
 $conn->disconnect();
 include $_SERVER['DOCUMENT_ROOT'] . "/include/bottom_content.php";
 ?>
->>>>>>> 75ea3cd60180c16f2bada2c7eda6cd342d2d3873

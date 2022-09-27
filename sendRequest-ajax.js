@@ -2,7 +2,6 @@
 
 sendRequest-ajax
 
-author : 허정진  http://tistory.serpiko.com
 author : 허정진  http://serpiko.tistory.com
 
 update : 2017. 11. 08
